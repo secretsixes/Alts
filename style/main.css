@@ -872,6 +872,26 @@ hr {
     background: #ffffff; 
     background-image: url('https://secretsixes.github.io/Alts/706_edit.png'); 
     background-size: 100% auto; }
+  .tile.tile-77 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/Tile__83.png'); 
+    background-size: 100% auto; }
+  .tile.tile-78 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/Tile__67.png'); 
+    background-size: 100% auto; }
+  .tile.tile-79 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/33 - GlintOf353.png'); 
+    background-size: 100% auto; }
+  .tile.tile-80 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/34 - DelugeOf347.png'); 
+    background-size: 100% auto; }
   .tile.tile-81 .tile-inner {
     color: #5bf140;
     background: #0f146b; 
@@ -892,6 +912,76 @@ hr {
     color: #e0637c;
     background: #6e1631; 
     font-size: 30px; }
+  .tile.tile-86 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/Ecaly.png'); 
+    background-size: 100% auto; }
+  .tile.tile-87 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/World5.png'); 
+    background-size: 100% auto; }
+  .tile.tile-88 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/4000000.png'); 
+    background-size: 100% auto; }
+  .tile.tile-89 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/56 - UpliftIvy.png'); 
+    background-size: 100% auto; }
+  .tile.tile-90 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/Fluff7.png'); 
+    background-size: 100% auto; }
+  .tile.tile-91 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/3 - Room__1.png'); 
+    background-size: 100% auto; }
+  .tile.tile-92 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/46 - Room__2.png'); 
+    background-size: 100% auto; }
+  .tile.tile-93 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/2 - Room__3.png'); 
+    background-size: 100% auto; }
+  .tile.tile-94 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/1 - Room__4.png'); 
+    background-size: 100% auto; }
+  .tile.tile-95 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/27 - 54ink.png'); 
+    background-size: 100% auto; }
+  .tile.tile-96 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/34 - 70ink.png'); 
+    background-size: 100% auto; }
+  .tile.tile-97 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/33 - 76ink.png'); 
+    background-size: 100% auto; }
+  .tile.tile-98 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/2 - 92ink.png'); 
+    background-size: 100% auto; }
+  .tile.tile-99 .tile-inner {
+    color: #ffffff;
+    background: #ffffff; 
+    background-image: url('https://secretsixes.github.io/Alts/23 - 108ink.png'); 
+    background-size: 100% auto; }
   .tile.tile--21 .tile-inner {
     color: #ff4f12;
     background: #ff4f12; 
@@ -899,6 +989,14 @@ hr {
   .tile.tile--50 .tile-inner {
     color: #b290de;
     background: #b290de; 
+    border-radius: 25px; }
+  .tile.tile--58 .tile-inner {
+    color: #86f542;
+    background: #86f542; 
+    border-radius: 25px; }
+  .tile.tile--59 .tile-inner {
+    color: #c2c1ac;
+    background: #c2c1ac; 
     border-radius: 25px; }
 
 @-webkit-keyframes appear {
