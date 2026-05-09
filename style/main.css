@@ -610,7 +610,7 @@ hr {
   .tile.tile-20 .tile-inner {
     color: #ffffff;
     background: #ffffff; 
-    background-image: url('https://nethaban.github.io/Alts/20 - Obi_Wan_7.png'); 
+    background-image: url('https://nethaban.github.io/Alts/20 - 48ink.png'); 
     background-size: 100% auto; }
   .tile.tile-21 .tile-inner {
     color: #ffffff;
@@ -715,7 +715,7 @@ hr {
   .tile.tile-41 .tile-inner {
     color: #ffffff;
     background: #ffffff; 
-    background-image: url('https://nethaban.github.io/Alts/41 - Trickster693.png'); 
+    background-image: url('https://nethaban.github.io/Alts/41 - secretsixes.png'); 
     background-size: 100% auto; }
   .tile.tile-42 .tile-inner {
     color: #ffffff;
@@ -845,7 +845,7 @@ hr {
   .tile.tile-67 .tile-inner {
     color: #ffffff;
     background: #ffffff; 
-    background-image: url('https://secretsixes.github.io/Alts/45 - SpectrumPride.png'); 
+    background-image: url('https://nethaban.github.io/Alts/67 - opminuta.png'); 
     background-size: 100% auto; }
   .tile.tile-68 .tile-inner {
     color: #ffffff;
@@ -974,7 +974,7 @@ hr {
   .tile.tile-94 .tile-inner {
     color: #ffffff;
     background: #ffffff; 
-    background-image: url('https://secretsixes.github.io/Alts/34 - 48ink.png'); 
+    background-image: url('https://secretsixes.github.io/Alts/Tile__94.png'); 
     background-size: 100% auto; }
   .tile.tile-95 .tile-inner {
     color: #ffffff;
@@ -1021,11 +1021,6 @@ hr {
     background: #ffffff; 
     background-image: url('https://secretsixes.github.io/Alts/Euphoria593.png'); 
     background-size: 100% auto; }
-  .tile.tile-104 .tile-inner {
-    color: #ffffff;
-    background: #ffffff; 
-    background-image: url('https://secretsixes.github.io/Alts/Tile__94.png'); 
-    background-size: 100% auto; }
   .tile.tile-118 .tile-inner {
     color: #ffffff;
     background: #ffffff; 
@@ -1034,6 +1029,14 @@ hr {
   .tile.tile--21 .tile-inner {
     color: #ff4f12;
     background: #ff4f12; 
+    border-radius: 25px; }
+  .tile.tile--22 .tile-inner {
+    color: #19a1b7;
+    background: #19a1b7; 
+    border-radius: 25px; }
+  .tile.tile--23 .tile-inner {
+    color: #890449;
+    background: #890449; 
     border-radius: 25px; }
   .tile.tile--50 .tile-inner {
     color: #b290de;
