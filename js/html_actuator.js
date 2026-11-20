@@ -168,6 +168,8 @@ HTMLActuator.prototype.addTile = function (tile) {
   if (tile.value === 102) inner.textContent = " ";
   if (tile.value === 103) inner.textContent = " ";
   if (tile.value === 104) inner.textContent = " ";
+  if (tile.value === 105) inner.textContent = " ";
+  if (tile.value === 106) inner.textContent = " ";
   if (tile.value === 118) inner.textContent = " ";
 
   if (tile.previousPosition) {
